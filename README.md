@@ -1,6 +1,6 @@
 # Cupom de Desconto - Loja Online
 
-## Me siga no Linkedin => https://www.linkedin.com/in/euluangomes
+# Me siga no Linkedin => https://www.linkedin.com/in/euluangomes
 Este projeto é um programa simples em Python que simula a aplicação de cupons de desconto em uma loja online. O usuário informa o preço do produto e escolhe um cupom de desconto, e o programa calcula o preço final.
 
 ## Como funciona
